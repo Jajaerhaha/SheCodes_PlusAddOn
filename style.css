@@ -1,0 +1,13 @@
+body {
+  background-color: whitesmoke;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.container {
+  margin: 120px auto;
+  max-width: 600px;
+  padding: 30px;
+  background-color: blanchedalmond;
+  box-shadow: 21px -15px 15px rgba(138, 91, 91, 0.1);
+}
